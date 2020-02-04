@@ -1,0 +1,407 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-D-S-S-S-D-S-D-S-S-S-D-S-S-S-S-S-S-S-D-S-D-S-D-D-S-D-S-D-S-D-S-D-D-D-S-D-D-D-D-D-S-D-D-D-S-D-S-D-D-S-S-S-D-S-D-S-F-20-S-S-S-S-D-S-S-S-S-S-S-S-D-S-D-D-S-D-D-D-S-D-D-D-D-D-D-D-S-D-S-D-D-D-S-D-D-D-S-D-D-S-D-S-D-S-S-S-S-S-D-S-S-S-D-S-F-F-D-S-S-S-D-S-D-D-D-D-S-D-D-D-D-D-S-D-D-D-S-D-F-D-S-D-D-D-S-D-S-D-D-S-S-S-S-S-D-60-20-S-D-S-S-S-D-S-D-S-S-S-D-S-S-S-D-D-S-D-D-D-D-D-D-D-S-D-D-D-S-D-S-D-D-D-S-D-D-D-D-D-D-S-S-S-S-S-S-50-B-S-D-F-F-F-B-B-D-S-30-S-S-S-S-S-D-D-D-D-S-D-D-D-S-D-D-D-D-D-S-D-D-D-D-D-D-D-S-D-D-D-D-S-S-S-D-S-S-B-S-S-S-S-S-B-D-S-S-S-S-S-D-S-D-S-D-D-S-D-D-D-D-D-D-D-50-D-D-D-D-D-D-D-D-D-S-D-D-D-S-D-D-S-S-S-D-30-S-S-20-S-S-S-F-50-D-S-D-10-S-S-S-S-D-S-D-D-S-D-D-D-D-D-S-D-S-D-D-D-S-D-S-D-S-D-S-D-S-D-S-D-D-S-D-S-S-S-S-S-D-S-S-S-D-S-S-S-S-S-D-S-D-S-S-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 15169.
+Le placement des bonus porte le numéro 40622;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    04/02/2020 - 22:10:31                          *
+*       Connexion 0 - adresse : localhost, /127.0.0.1:53227
+************************************************************
+04022020-221032 -  envoi du numéro de joueur au joueur 0
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221033 -  envoi des infos du labyrinthe au joueur 0
+04022020-221033 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221034 -  envoi des infos du labyrinthe au joueur 0
+04022020-221034 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221035 -  envoi des infos du labyrinthe au joueur 0
+04022020-221035 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221036 -  envoi des infos du labyrinthe au joueur 0
+04022020-221036 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221037 -  envoi des infos du labyrinthe au joueur 0
+04022020-221037 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221038 -  envoi des infos du labyrinthe au joueur 0
+04022020-221038 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221039 -  envoi des infos du labyrinthe au joueur 0
+04022020-221039 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221040 -  envoi des infos du labyrinthe au joueur 0
+04022020-221040 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221041 -  envoi des infos du labyrinthe au joueur 0
+04022020-221041 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221042 -  envoi des infos du labyrinthe au joueur 0
+04022020-221042 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221043 -  envoi des infos du labyrinthe au joueur 0
+04022020-221043 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221044 -  envoi des infos du labyrinthe au joueur 0
+04022020-221044 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221045 -  envoi des infos du labyrinthe au joueur 0
+04022020-221045 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221046 -  envoi des infos du labyrinthe au joueur 0
+04022020-221046 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+04022020-221047 -  envoi des infos du labyrinthe au joueur 0
+04022020-221047 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
